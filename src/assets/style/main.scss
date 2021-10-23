@@ -1,0 +1,37 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+body {
+    background-color: black
+}
+
+.container {
+    padding: 1em 5em;
+    @media (max-width:620px) {
+        padding: .6em;
+    }
+}
+
+.navbarspace {
+    margin-top: 70px;
+    @media (max-width:620px) {
+        margin-top: 65px;
+    }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+a,
+img {
+    user-select: none
+}
