@@ -6,8 +6,8 @@
         alt="banner"
       />
       <p>
-        A mythic and emotionally charged hero's journey, "Dune" tells the story
-        of Paul Atreides, a brilliant and gifted young man born into a great
+        A mysthic and emotionally charged hero's journey, "Dune" tells the story
+        of Javier Albites, a brilliant and gifted young man born into a great
         destiny beyond his ...
       </p>
       <router-link to="/movie/438631">
